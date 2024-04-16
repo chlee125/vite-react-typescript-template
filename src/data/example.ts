@@ -242,6 +242,7 @@ export const examples : IExample[] = [
     children: [
       { title: 'Data Mapping', path: '/example/lineage/data-mapping' },
       { title: 'Visual Modeling', path: '/example/lineage/visual-modeling' },
+      { title: 'React Diagrams', path: '/example/lineage/react-diagram' },
     ],
   },
-];
+     

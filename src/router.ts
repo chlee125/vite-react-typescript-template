@@ -31,6 +31,7 @@ export type Path =
   | `/example/label/demo`
   | `/example/lineage/data-mapping`
   | `/example/lineage/visual-modeling`
+  | `/example/lineage/react-diagram`
   | `/example/markdown`
   | `/example/markdown/editor`
   | `/example/menubar/demo`
